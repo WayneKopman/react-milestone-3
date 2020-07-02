@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-milestone-3/static/css/main.a7f2561a.chunk.css",
+    "main.js": "/react-milestone-3/static/js/main.c31b2729.chunk.js",
+    "main.js.map": "/react-milestone-3/static/js/main.c31b2729.chunk.js.map",
+    "runtime-main.js": "/react-milestone-3/static/js/runtime-main.e2b5cdd6.js",
+    "runtime-main.js.map": "/react-milestone-3/static/js/runtime-main.e2b5cdd6.js.map",
+    "static/js/2.fe0b1432.chunk.js": "/react-milestone-3/static/js/2.fe0b1432.chunk.js",
+    "static/js/2.fe0b1432.chunk.js.map": "/react-milestone-3/static/js/2.fe0b1432.chunk.js.map",
+    "index.html": "/react-milestone-3/index.html",
+    "precache-manifest.31e0c2eb362f733ccec77f48c06d7da3.js": "/react-milestone-3/precache-manifest.31e0c2eb362f733ccec77f48c06d7da3.js",
+    "service-worker.js": "/react-milestone-3/service-worker.js",
+    "static/css/main.a7f2561a.chunk.css.map": "/react-milestone-3/static/css/main.a7f2561a.chunk.css.map",
+    "static/js/2.fe0b1432.chunk.js.LICENSE.txt": "/react-milestone-3/static/js/2.fe0b1432.chunk.js.LICENSE.txt",
+    "static/media/cow.png": "/react-milestone-3/static/media/cow.f4f1b5af.png",
+    "static/media/dog.png": "/react-milestone-3/static/media/dog.95f7ec7f.png",
+    "static/media/fox.png": "/react-milestone-3/static/media/fox.55815840.png",
+    "static/media/monkey.png": "/react-milestone-3/static/media/monkey.d364485f.png",
+    "static/media/mouse.png": "/react-milestone-3/static/media/mouse.b0cad456.png",
+    "static/media/pig.png": "/react-milestone-3/static/media/pig.0ed03c8c.png",
+    "static/media/rabbit.png": "/react-milestone-3/static/media/rabbit.cf9c03a2.png",
+    "static/media/tiger.png": "/react-milestone-3/static/media/tiger.9d295dc4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2b5cdd6.js",
+    "static/js/2.fe0b1432.chunk.js",
+    "static/css/main.a7f2561a.chunk.css",
+    "static/js/main.c31b2729.chunk.js"
+  ]
+}
